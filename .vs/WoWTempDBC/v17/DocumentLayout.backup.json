@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\18256\\Desktop\\WoWTempDBC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3013A2-1754-4E5E-96A9-A9DEAA3D0D3D}|WoWTempDBC\\WoWTempDBC.csproj|C:\\Users\\18256\\Desktop\\WoWTempDBC\\wowtempdbc\\mreader\\dbentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3013A2-1754-4E5E-96A9-A9DEAA3D0D3D}|WoWTempDBC\\WoWTempDBC.csproj|solutionrelative:wowtempdbc\\mreader\\dbentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3013A2-1754-4E5E-96A9-A9DEAA3D0D3D}|WoWTempDBC\\WoWTempDBC.csproj|C:\\Users\\18256\\Desktop\\WoWTempDBC\\wowtempdbc\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3013A2-1754-4E5E-96A9-A9DEAA3D0D3D}|WoWTempDBC\\WoWTempDBC.csproj|solutionrelative:wowtempdbc\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3013A2-1754-4E5E-96A9-A9DEAA3D0D3D}|WoWTempDBC\\WoWTempDBC.csproj|c:\\users\\18256\\desktop\\wowtempdbc\\wowtempdbc\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3013A2-1754-4E5E-96A9-A9DEAA3D0D3D}|WoWTempDBC\\WoWTempDBC.csproj|solutionrelative:wowtempdbc\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3013A2-1754-4E5E-96A9-A9DEAA3D0D3D}|WoWTempDBC\\WoWTempDBC.csproj|C:\\Users\\18256\\Desktop\\WoWTempDBC\\wowtempdbc\\mreader\\filetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3013A2-1754-4E5E-96A9-A9DEAA3D0D3D}|WoWTempDBC\\WoWTempDBC.csproj|solutionrelative:wowtempdbc\\mreader\\filetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3013A2-1754-4E5E-96A9-A9DEAA3D0D3D}|WoWTempDBC\\WoWTempDBC.csproj|C:\\Users\\18256\\Desktop\\WoWTempDBC\\wowtempdbc\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3013A2-1754-4E5E-96A9-A9DEAA3D0D3D}|WoWTempDBC\\WoWTempDBC.csproj|solutionrelative:wowtempdbc\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3013A2-1754-4E5E-96A9-A9DEAA3D0D3D}|WoWTempDBC\\WoWTempDBC.csproj|C:\\Users\\18256\\Desktop\\WoWTempDBC\\wowtempdbc\\mreader\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3013A2-1754-4E5E-96A9-A9DEAA3D0D3D}|WoWTempDBC\\WoWTempDBC.csproj|solutionrelative:wowtempdbc\\mreader\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3013A2-1754-4E5E-96A9-A9DEAA3D0D3D}|WoWTempDBC\\WoWTempDBC.csproj|C:\\Users\\18256\\Desktop\\WoWTempDBC\\wowtempdbc\\mreader\\dbheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3013A2-1754-4E5E-96A9-A9DEAA3D0D3D}|WoWTempDBC\\WoWTempDBC.csproj|solutionrelative:wowtempdbc\\mreader\\dbheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3013A2-1754-4E5E-96A9-A9DEAA3D0D3D}|WoWTempDBC\\WoWTempDBC.csproj|C:\\Users\\18256\\Desktop\\WoWTempDBC\\wowtempdbc\\mreader\\dbreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3013A2-1754-4E5E-96A9-A9DEAA3D0D3D}|WoWTempDBC\\WoWTempDBC.csproj|solutionrelative:wowtempdbc\\mreader\\dbreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileTypes.cs",
+              "DocumentMoniker": "C:\\Users\\18256\\Desktop\\WoWTempDBC\\WoWTempDBC\\MReader\\FileTypes.cs",
+              "RelativeDocumentMoniker": "WoWTempDBC\\MReader\\FileTypes.cs",
+              "ToolTip": "C:\\Users\\18256\\Desktop\\WoWTempDBC\\WoWTempDBC\\MReader\\FileTypes.cs",
+              "RelativeToolTip": "WoWTempDBC\\MReader\\FileTypes.cs",
+              "ViewState": "AQIAAMEKAAAAAAAAAAAzwPQKAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:36:45.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBHeader.cs",
+              "DocumentMoniker": "C:\\Users\\18256\\Desktop\\WoWTempDBC\\WoWTempDBC\\MReader\\DBHeader.cs",
+              "RelativeDocumentMoniker": "WoWTempDBC\\MReader\\DBHeader.cs",
+              "ToolTip": "C:\\Users\\18256\\Desktop\\WoWTempDBC\\WoWTempDBC\\MReader\\DBHeader.cs",
+              "RelativeToolTip": "WoWTempDBC\\MReader\\DBHeader.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAIwE0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:33:50.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\18256\\Desktop\\WoWTempDBC\\WoWTempDBC\\MainForm.cs",
+              "RelativeDocumentMoniker": "WoWTempDBC\\MainForm.cs",
+              "ToolTip": "C:\\Users\\18256\\Desktop\\WoWTempDBC\\WoWTempDBC\\MainForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WoWTempDBC\\MainForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T14:10:08.371Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\18256\\Desktop\\WoWTempDBC\\WoWTempDBC\\Helper.cs",
+              "RelativeDocumentMoniker": "WoWTempDBC\\Helper.cs",
+              "ToolTip": "C:\\Users\\18256\\Desktop\\WoWTempDBC\\WoWTempDBC\\Helper.cs",
+              "RelativeToolTip": "WoWTempDBC\\Helper.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwDAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T13:32:19.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBEntry.cs",
+              "DocumentMoniker": "C:\\Users\\18256\\Desktop\\WoWTempDBC\\WoWTempDBC\\MReader\\DBEntry.cs",
+              "RelativeDocumentMoniker": "WoWTempDBC\\MReader\\DBEntry.cs",
+              "ToolTip": "C:\\Users\\18256\\Desktop\\WoWTempDBC\\WoWTempDBC\\MReader\\DBEntry.cs",
+              "RelativeToolTip": "WoWTempDBC\\MReader\\DBEntry.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAswCMBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T13:21:44.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\18256\\Desktop\\WoWTempDBC\\WoWTempDBC\\MReader\\Database.cs",
+              "RelativeDocumentMoniker": "WoWTempDBC\\MReader\\Database.cs",
+              "ToolTip": "C:\\Users\\18256\\Desktop\\WoWTempDBC\\WoWTempDBC\\MReader\\Database.cs",
+              "RelativeToolTip": "WoWTempDBC\\MReader\\Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:40:23.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\18256\\Desktop\\WoWTempDBC\\WoWTempDBC\\MainForm.cs",
+              "RelativeDocumentMoniker": "WoWTempDBC\\MainForm.cs",
+              "ToolTip": "C:\\Users\\18256\\Desktop\\WoWTempDBC\\WoWTempDBC\\MainForm.cs",
+              "RelativeToolTip": "WoWTempDBC\\MainForm.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAUwAQBAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:11:00.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DBReader.cs",
+              "DocumentMoniker": "C:\\Users\\18256\\Desktop\\WoWTempDBC\\WoWTempDBC\\MReader\\DBReader.cs",
+              "RelativeDocumentMoniker": "WoWTempDBC\\MReader\\DBReader.cs",
+              "ToolTip": "C:\\Users\\18256\\Desktop\\WoWTempDBC\\WoWTempDBC\\MReader\\DBReader.cs",
+              "RelativeToolTip": "WoWTempDBC\\MReader\\DBReader.cs",
+              "ViewState": "AQIAAA0BAAAAAAAAAAAlwCYBAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:11:15.174Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

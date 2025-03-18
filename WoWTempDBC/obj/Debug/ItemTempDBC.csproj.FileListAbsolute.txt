@@ -1,0 +1,12 @@
+E:\ItemTempDBC\ItemTempDBC\bin\Debug\ItemTempDBC.exe
+E:\ItemTempDBC\ItemTempDBC\bin\Debug\ItemTempDBC.pdb
+E:\ItemTempDBC\ItemTempDBC\bin\Debug\MySql.Data.dll
+E:\ItemTempDBC\ItemTempDBC\obj\Debug\ItemTempDBC.MainForm.resources
+E:\ItemTempDBC\ItemTempDBC\obj\Debug\ItemTempDBC.Properties.Resources.resources
+E:\ItemTempDBC\ItemTempDBC\obj\Debug\ItemTempDBC.csproj.GenerateResource.cache
+E:\ItemTempDBC\ItemTempDBC\obj\Debug\ItemTempDBC.csproj.CoreCompileInputs.cache
+E:\ItemTempDBC\ItemTempDBC\obj\Debug\ItemTempDBC.csproj.CopyComplete
+E:\ItemTempDBC\ItemTempDBC\obj\Debug\ItemTempDBC.exe
+E:\ItemTempDBC\ItemTempDBC\obj\Debug\ItemTempDBC.pdb
+E:\ItemTempDBC\ItemTempDBC\bin\Debug\System.Threading.Tasks.Dataflow.dll
+E:\ItemTempDBC\ItemTempDBC\bin\Debug\System.Threading.Tasks.Dataflow.xml
